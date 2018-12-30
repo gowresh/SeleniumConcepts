@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18" started-at="2018-12-26T13:01:19Z" finished-at="2018-12-26T13:01:19Z">
+    <groups>
+      <group name="User">
+        <method signature="TestNGBasics.Test1()[pri:1, instance:com.testng.TestNGBasics@68be2bc2]" name="Test1" class="com.testng.TestNGBasics"/>
+        <method signature="TestNGBasics.Test2()[pri:2, instance:com.testng.TestNGBasics@68be2bc2]" name="Test2" class="com.testng.TestNGBasics"/>
+      </group> <!-- User -->
+      <group name="Main">
+        <method signature="TestNGBasics.Test3()[pri:3, instance:com.testng.TestNGBasics@68be2bc2]" name="Test3" class="com.testng.TestNGBasics"/>
+        <method signature="TestNGBasics.Test4()[pri:4, instance:com.testng.TestNGBasics@68be2bc2]" name="Test4" class="com.testng.TestNGBasics"/>
+      </group> <!-- Main -->
+    </groups>
+    <test name="Default test" duration-ms="18" started-at="2018-12-26T13:01:19Z" finished-at="2018-12-26T13:01:19Z">
+      <class name="com.testng.TestNGBasics">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeSuite" is-config="true" duration-ms="5" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:1, instance:com.testng.TestNGBasics@68be2bc2]" name="Test1" duration-ms="3" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:2, instance:com.testng.TestNGBasics@68be2bc2]" name="Test2" duration-ms="1" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="Test3()[pri:3, instance:com.testng.TestNGBasics@68be2bc2]" name="Test3" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test4()[pri:4, instance:com.testng.TestNGBasics@68be2bc2]" name="Test4" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="AfterClas()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterClas" is-config="true" duration-ms="1" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClas -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterTest" is-config="true" duration-ms="1" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.testng.TestNGBasics@68be2bc2]" name="AfterSuite" is-config="true" duration-ms="1" started-at="2018-12-26T18:31:19Z" finished-at="2018-12-26T18:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.testng.TestNGBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
